@@ -23,6 +23,7 @@ img {
 
 li {
     list-style: none;
+    margin-left: 16px;
 }
 
 .site-title {
@@ -328,8 +329,8 @@ li {
     margin-left: 25px;
 }
 
-#footer .menu li {
-    margin-left: 10px;
+.menu li {
+    margin-left: 16px;
 }
 
 #footer .menu {
